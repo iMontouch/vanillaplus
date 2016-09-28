@@ -38,6 +38,8 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 
 [OmniBarrels](https://mods.factorio.com/mods/GotLag/Omnibarrels) - *Adds barrels for all fluids, modded or base.*
 
+[Big Brother]https://mods.factorio.com/mods/Afforess/Big_Brother) - *Research radar upgrades in amplification, efficiency, and surveillance capabilities. Create the ultimate surveillance state.*
+
 ### World Generation changing
 
 [Resource Spawn Overhaul](https://mods.factorio.com/mods/orzelek/rso-mod) - *Overhauls resource spawning system.*
