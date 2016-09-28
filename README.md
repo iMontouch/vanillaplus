@@ -2,7 +2,7 @@
 modpack that aims to extend the vanilla gameplay without adding too much content
 
 ## Download
-[Download 1.0](placeholder)
+[Download 1.0](https://github.com/iMontouch/vanillaplus/raw/master/versions/vanillaplus_1.0.zip)
 
 ## Mod List
 ### Game changing
