@@ -36,6 +36,8 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 
 [Crafting Speed Research](https://mods.factorio.com/mods/Klonan/Crafting_Speed_Research) - *This mod adds research to increase the player crafting speed.*
 
+[AutoDeconstruct](https://mods.factorio.com/mods/mindmix/AutoDeconstruct) - *This mod marks drills that have no more resources to mine for deconstruction.*
+
 ### World Generation changing
 
 [Resource Spawn Overhaul](https://mods.factorio.com/mods/orzelek/rso-mod) - *Overhauls resource spawning system.*
@@ -51,8 +53,6 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 [Better Icons](https://mods.factorio.com/mods/Meppi/BetterIcons) - *Replaces most of the placeholder and outdated icons*
 
 [Enhanced Map Colors](https://mods.factorio.com/mods/osldgoth/Enhanced_Map_Colors) - *Adds color to items on map/minimap for contrast. Aids map readability.*
-
-[AutoDeconstruct](https://mods.factorio.com/mods/mindmix/AutoDeconstruct) - *This mod marks drills that have no more resources to mine for deconstruction.*
 
 [unDecorator](https://mods.factorio.com/mods/orzelek/undecorator) - *Removes terrain decorations to reduce save file size.*
 
