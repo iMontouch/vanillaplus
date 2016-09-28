@@ -42,6 +42,8 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 
 [Chainsaw](https://mods.factorio.com/mods/devilwarriors/Chainsaw) - *The chainsaw is a mining tool specialize in cutting tree that aim to fill that void before you get flamethrower or the construction bots, or for people who want to get to keep the wood but find the axe to be a pain.*
 
+[Longer Underground Belts](https://mods.factorio.com/mods/mattj256/Longer_Underground_Belts) - *Underground belts cover a larger distance.*
+
 ### World Generation changing
 
 [Resource Spawn Overhaul](https://mods.factorio.com/mods/orzelek/rso-mod) - *Overhauls resource spawning system.*
@@ -65,3 +67,5 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 [Blueprint String](https://mods.factorio.com/mods/DaveMcW/blueprint-string) - *This mod makes it easy to import and share blueprints.*
 
 [Simple Death Messages](https://mods.factorio.com/mods/NoPantsMcDance/Simple_Death_Messages) - *It points out your faults at the time you are most vulnerable.*
+
+[SmallFixes](https://mods.factorio.com/mods/Choumiko/SmallFixes) - *Small non game changing/breaking fixes*
