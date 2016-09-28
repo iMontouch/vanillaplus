@@ -59,3 +59,5 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 ### Utilitys
 
 [Blueprint String](https://mods.factorio.com/mods/DaveMcW/blueprint-string) - *This mod makes it easy to import and share blueprints.*
+
+[Simple Death Messages](https://mods.factorio.com/mods/NoPantsMcDance/Simple_Death_Messages) - *It points out your faults at the time you are most vulnerable.*
