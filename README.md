@@ -34,8 +34,6 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 
 [Flow Control](https://mods.factorio.com/mods/GotLag/Flow%20Control) - *Adds pipes with restricted connections, non-return valve, and basic and improved pumps.*
 
-[Crafting Speed Research](https://mods.factorio.com/mods/Klonan/Crafting_Speed_Research) - *This mod adds research to increase the player crafting speed.*
-
 [AutoDeconstruct](https://mods.factorio.com/mods/mindmix/AutoDeconstruct) - *This mod marks drills that have no more resources to mine for deconstruction.*
 
 [OmniBarrels](https://mods.factorio.com/mods/GotLag/Omnibarrels) - *Adds barrels for all fluids, modded or base.*
