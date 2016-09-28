@@ -54,6 +54,8 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 
 [AutoDeconstruct](https://mods.factorio.com/mods/mindmix/AutoDeconstruct) - *This mod marks drills that have no more resources to mine for deconstruction.*
 
+[unDecorator](https://mods.factorio.com/mods/orzelek/undecorator) - *Removes terrain decorations to reduce save file size.*
+
 ### Utilitys
 
 [Blueprint String](https://mods.factorio.com/mods/DaveMcW/blueprint-string) - *This mod makes it easy to import and share blueprints.*
