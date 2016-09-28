@@ -44,6 +44,8 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 
 [Resource Spawn Overhaul](https://mods.factorio.com/mods/orzelek/rso-mod) - *Overhauls resource spawning system.*
 
+[unDecorator](https://mods.factorio.com/mods/orzelek/undecorator) - *Removes terrain decorations to reduce save file size.*
+
 ### User Interface changing
 
 [Bottleneck](https://mods.factorio.com/mods/trold/Bottleneck) - *A tool for locating input starved machines.*
@@ -55,8 +57,6 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 [Better Icons](https://mods.factorio.com/mods/Meppi/BetterIcons) - *Replaces most of the placeholder and outdated icons*
 
 [Enhanced Map Colors](https://mods.factorio.com/mods/osldgoth/Enhanced_Map_Colors) - *Adds color to items on map/minimap for contrast. Aids map readability.*
-
-[unDecorator](https://mods.factorio.com/mods/orzelek/undecorator) - *Removes terrain decorations to reduce save file size.*
 
 ### Utilitys
 
