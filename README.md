@@ -30,8 +30,6 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 
 [Autofill](https://mods.factorio.com/mods/Nexela/autofill) - *Autofill inserts items (ammo,fuel,etc) inside entities when placing them in the world.*
 
-[Auto Trash](https://mods.factorio.com/mods/Choumiko/AutoTrash) - *Keeps your inventory clean of certain items*
-
 [Flow Control](https://mods.factorio.com/mods/GotLag/Flow%20Control) - *Adds pipes with restricted connections, non-return valve, and basic and improved pumps.*
 
 [AutoDeconstruct](https://mods.factorio.com/mods/mindmix/AutoDeconstruct) - *This mod marks drills that have no more resources to mine for deconstruction.*
