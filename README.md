@@ -40,6 +40,8 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 
 [Big Brother](https://mods.factorio.com/mods/Afforess/Big_Brother) - *Research radar upgrades in amplification, efficiency, and surveillance capabilities. Create the ultimate surveillance state.*
 
+[Chainsaw](https://mods.factorio.com/mods/devilwarriors/Chainsaw) - *The chainsaw is a mining tool specialize in cutting tree that aim to fill that void before you get flamethrower or the construction bots, or for people who want to get to keep the wood but find the axe to be a pain.*
+
 ### World Generation changing
 
 [Resource Spawn Overhaul](https://mods.factorio.com/mods/orzelek/rso-mod) - *Overhauls resource spawning system.*
