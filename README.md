@@ -48,7 +48,9 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 
 [MoreLight](https://mods.factorio.com/mods/closteam/MoreLight) - *Gives the player more light.*
 
-[Advanced](Logistics System https://mods.factorio.com/mods/anoutsider/advanced-logistics-system) - *Extended Logistics Network View and Monitoring*
+[Advanced Logistics System](https://mods.factorio.com/mods/anoutsider/advanced-logistics-system) - *Extended Logistics Network View and Monitoring*
+
+[More Floors](https://mods.factorio.com/mods/Tone/More_Floors) - *Adds more floors to pretty up your factories*
 
 ### World Generation changing
 
