@@ -52,6 +52,8 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 
 [More Floors](https://mods.factorio.com/mods/Tone/More_Floors) - *Adds more floors to pretty up your factories*
 
+[Expanded Robot Technology](https://mods.factorio.com/mods/Natfrac42/Expanded_Robot_Tech) - *Adds in more technologies for worker and construction robots including robot speed, robot carrying capacity, character trash slots and character logistics slots.*
+
 ### World Generation changing
 
 [Resource Spawn Overhaul](https://mods.factorio.com/mods/orzelek/rso-mod) - *Overhauls resource spawning system.*
