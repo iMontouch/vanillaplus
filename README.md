@@ -38,7 +38,7 @@ Removed: Undecorator (Outdated)
 ### Game changing
 [Long Reach](https://mods.factorio.com/mods/jamesaguilar/long-reach) - *You can reach anything you can see. You can build anywhere you can see.*
 
-[200 Inventory Size](https://mods.factorio.com/mods/andhagg1/200 Inventory Size) - *This is a very tiny mod that doubles the size of the player's inventory.*
+[200 Inventory Size](https://mods.factorio.com/mods/andhagg1/200%20Inventory%20Size) - *This is a very tiny mod that doubles the size of the player's inventory.*
 
 [FARL](https://mods.factorio.com/mods/Choumiko/FARL) - *Fully Automated Rail Layer*
 
