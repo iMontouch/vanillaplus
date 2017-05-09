@@ -3,6 +3,7 @@ modpack that aims to extend the vanilla gameplay without adding too much content
 
 ## Download
 [Download 1.1 - Game version 0.15](https://github.com/iMontouch/vanillaplus/raw/master/versions/vanillaplus_1.1.zip)
+
 [Download 1.0 - Game version 0.14](https://github.com/iMontouch/vanillaplus/raw/master/versions/vanillaplus_1.0.zip)
 
 ## Changelog
