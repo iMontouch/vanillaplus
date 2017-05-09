@@ -2,7 +2,36 @@
 modpack that aims to extend the vanilla gameplay without adding too much content
 
 ## Download
+[Download 1.1 - Game version 0.15](https://github.com/iMontouch/vanillaplus/raw/master/versions/vanillaplus_1.1.zip)
 [Download 1.0 - Game version 0.14](https://github.com/iMontouch/vanillaplus/raw/master/versions/vanillaplus_1.0.zip)
+
+## Changelog
+### Version 1.1
+Updated all mods to Game version 0.15
+
+Added: 200 Inventory Size
+
+Added: Even More Light
+
+Removed: Advanced Logistics System (Outdated)
+
+Removed: Expanded Robot Tech
+
+Removed: Foreman
+
+Removed: Larger Inventory (Outdated)
+
+Removed: More Light (Outdated)
+
+Removed: OmniBarrels
+
+Removed: Orbital Ion Cannon (Outdated)
+
+Removed: RailTanker (Outdated)
+
+Removed: SmallFixes (Outdated)
+
+Removed: Undecorator (Outdated)
 
 ## Mod List
 ### Game changing
